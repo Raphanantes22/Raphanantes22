@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/raphaelnantes/raphaelnantes/main/profile-pic.png" width="150" alt="Raphael Nantes" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Raphael Nantes! </h1>
+<h1 align="center">Raphael Nantes </h1>
 
 <p align="center">
   Desenvolvedor Front-End Júnior | São Paulo - SP, Brasil
