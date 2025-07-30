@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/raphaelnantes/raphaelnantes/main/profile-pic.png" width="150" alt="Raphael Nantes" style="border-radius: 50%;" />
 </p>
 
-<h1 align="center">Olá, eu sou o Raphael Nantes! </h1>
+<h1 align="center">Raphael Nantes! </h1>
 
 <p align="center">
   Desenvolvedor Front-End Júnior | São Paulo - SP, Brasil
@@ -16,9 +16,9 @@
 
 Sou um desenvolvedor Front-End com foco em E-commerce.
 
-Entrei como estagiário na [Social Digital Commerce](https://www.linkedin.com/company/socialdigitalcommerce/) em maio de 2024 e, graças ao meu empenho, fui promovido para Desenvolvedor Júnior em apenas 6 meses.
+Entrei como estagiário na [Social Digital Commerce](https://www.linkedin.com/company/socialdigitalcommerce/) em Maio de 2024 e fui promovido para Desenvolvedor Júnior em apenas 6 meses.
 
-Tenho perfil **maduro**, **responsável** e estou sempre buscando evolução profissional e técnica.
+Tenho perfil **maduro** e **responsável** sempre buscando evolução profissional e técnica.
 
 ---
 
@@ -27,8 +27,8 @@ Tenho perfil **maduro**, **responsável** e estou sempre buscando evolução pro
 - **Linguagens:** HTML, CSS, TypeScript
 - **Frameworks/Libraries:** React, Preact, Tailwind, Sass
 - **Templates:** Liquid, Scriban
-- **Plataformas:** VTEX, Wake, Deco.cx, Shopify
-- **Idiomas:** 🇺🇸 Inglês fluente | 🇪🇸 Espanhol intermediário
+- **Plataformas:** VTEX IO, VTEX CMS, Wake, Deco.cx, Shopify
+- **Idiomas:** Inglês fluente | Espanhol intermediário
 
 ---
 
@@ -46,10 +46,11 @@ Tenho perfil **maduro**, **responsável** e estou sempre buscando evolução pro
 -  **Dark Bull**: Departamento, Order Placed e Página de Produto (Relayout)
 -  Atuação em performance nas lojas **Philips**, **Del Rio** e **Brandili**
 -  Tagueamento completo nas lojas **Jasmine**, **Dark Bull** e **Cia Muller**
+-  Participação em diversos eventos de sustentação das lojas através do **onGoing**, assumindo a sustentação das lojas desde Março/2025
 
 ---
 
-### 🌍 Linkedin
+###  Linkedin
 
 [![LinkedIn](https://img.shields.io/badge/-Raphael%20Nantes-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-nantes)](https://www.linkedin.com/in/raphael-nantes)
 
