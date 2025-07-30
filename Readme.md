@@ -52,7 +52,7 @@ Tenho perfil **maduro** e **responsável** sempre buscando evolução profission
 - **Dark Bull**: Departamento, Order Placed e Página de Produto (Relayout)
 - Atuação em performance nas lojas **Philips**, **Del Rio** e **Brandili**
 - Tagueamento completo nas lojas **Jasmine**, **Dark Bull** e **Cia Muller**
-- Participação em diversos eventos de sustentação das lojas através do **onGoing**, assumindo a sustentação das lojas desde Março/2025
+- Participação em diversos eventos de sustentação das lojas através do **onGoing**, assumindo a sustentação total das lojas desde Março/2025
 
 ---
 
