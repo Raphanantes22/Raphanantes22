@@ -16,7 +16,7 @@
 
 Sou um desenvolvedor Front-End com foco em E-commerce.
 
-Entrei como estagiário na [Social Digital Commerce](https://www.linkedin.com/company/socialdigitalcommerce/) em Maio de 2024 e fui promovido para Desenvolvedor Júnior em apenas 6 meses.
+Entrei como estagiário na [Social Digital Commerce](https://www.socialsa.com/) em Maio de 2024 e fui promovido para Desenvolvedor Júnior em apenas 6 meses.
 
 Tenho perfil **maduro** e **responsável** sempre buscando evolução profissional e técnica.
 
@@ -37,6 +37,10 @@ Tenho perfil **maduro** e **responsável** sempre buscando evolução profission
 **Social Digital Commerce**
 -  Estágio: Mai/2024 - Dez/2024
 -  Dev Jr: Dez/2024 - Atual
+
+**Mútua de Assistência dos Profissionais do Crea**
+-  Estágio: Mai/2012 - Mai/2014
+-  Técnico Administrativo: Jun/2014 - Dez/2023
 
 **Conquistas e Participações:**
 -  Landing page da **Ajinomoto** em collab com **One Piece**
