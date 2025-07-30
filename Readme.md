@@ -43,16 +43,24 @@ Tenho perfil **maduro** e **responsável** sempre buscando evolução profission
 -  Técnico Administrativo: Jun/2014 - Dez/2023
 
 **Conquistas e Participações:**
--  Landing page da **Ajinomoto** em collab com **One Piece**
--  Landing page da **Taiff** (Escova Gloss)
--  **Jasmine** (Wake): My Account, Institucional, 404, Checkout e Order Placed
--  **Brandili** (Deco/VTEX): My Account, Checkout, Institucional
--  **Dark Bull**: Departamento, Order Placed e Página de Produto (Relayout)
--  Atuação em performance nas lojas **Philips**, **Del Rio** e **Brandili**
--  Tagueamento completo nas lojas **Jasmine**, **Dark Bull** e **Cia Muller**
--  Participação em diversos eventos de sustentação das lojas através do **onGoing**, assumindo a sustentação das lojas desde Março/2025
+- Desenvolvimento da landing page da [**Ajinomoto** em collab com One Piece](https://www.ajinomoto.com.br/)
+- Desenvolvimento da landing page da **Ajinomoto Sazon no BBB**
+- Desenvolvimento da landing page da [**Shopvinho - Arraiá do Vinho**](https://www.shopvinho.com.br/junina)
+- Desenvolvimento da landing page da [**Taiff - Escova Gloss**](https://www.taiff.com.br/lancamento-gloss)
+- [**Jasmine** (Wake)](https://www.loja.jasminealimentos.com/quem-somos): My Account, Institucional, 404, Checkout e Order Placed
+- [**Brandili** (Deco/VTEX)](https://www.brandili.com.br/institucional/quem-somos): My Account, Checkout, Institucional
+- **Dark Bull**: Departamento, Order Placed e Página de Produto (Relayout)
+- Atuação em performance nas lojas **Philips**, **Del Rio** e **Brandili**
+- Tagueamento completo nas lojas **Jasmine**, **Dark Bull** e **Cia Muller**
+- Participação em diversos eventos de sustentação das lojas através do **onGoing**, assumindo a sustentação das lojas desde Março/2025
 
 ---
+
+###  Imagens
+
+[![Landing-Page One Piece Ajinomoto](https://img.youtube.com/vi/5HFzSQu2NkU/maxresdefault.jpg)](https://youtu.be/5HFzSQu2NkU)
+
+
 
 ###  Linkedin
 
