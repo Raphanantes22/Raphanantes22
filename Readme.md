@@ -43,7 +43,7 @@ Tenho perfil **maduro** e **responsável** sempre buscando evolução profission
 -  Técnico Administrativo: Jun/2014 - Dez/2023
 
 **Conquistas e Participações:**
-- Desenvolvimento da landing page da [**Ajinomoto** em collab com One Piece](https://www.ajinomoto.com.br/)
+- Desenvolvimento da landing page da **Ajinomoto** em collab com One Piece
 - Desenvolvimento da landing page da **Ajinomoto Sazon no BBB**
 - Desenvolvimento da landing page da [**Shopvinho - Arraiá do Vinho**](https://www.shopvinho.com.br/junina)
 - Desenvolvimento da landing page da [**Taiff - Escova Gloss**](https://www.taiff.com.br/lancamento-gloss)
@@ -56,9 +56,10 @@ Tenho perfil **maduro** e **responsável** sempre buscando evolução profission
 
 ---
 
-###  Imagens
+###  Vídeo da página Ajinomoto - One Piece
 
-[![Landing-Page One Piece Ajinomoto](https://img.youtube.com/vi/5HFzSQu2NkU/maxresdefault.jpg)](https://youtu.be/5HFzSQu2NkU)
+[![Landing Page Ajinomoto One Piece](https://img.youtube.com/vi/eAP7ha75KjE/maxresdefault.jpg)](https://youtu.be/eAP7ha75KjE)
+
 
 
 
