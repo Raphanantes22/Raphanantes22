@@ -1,7 +1,7 @@
 <!-- Raphael Nantes - README Profile -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raphaelnantes/raphaelnantes/main/profile-pic.png" width="150" alt="Raphael Nantes" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Raphanantes22/Raphanantes22/main/profile-pic.png" width="150" alt="Raphael Nantes" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Raphael Nantes </h1>
